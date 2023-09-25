@@ -8,8 +8,6 @@ df = pd.read_excel(xlsx_file)
 
 df.info()
 
-
-
 # Load the student data from the Excel file
 excel_file = 'your_test_file.xlsx'  # Replace with the actual file name
 df = pd.read_excel(xlsx_file)
