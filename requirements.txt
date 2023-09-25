@@ -4,6 +4,7 @@ Bottleneck @ file:///C:/ci_311/bottleneck_1676500016583/work
 cachetools==5.3.1
 certifi==2023.7.22
 charset-normalizer==3.2.0
+et-xmlfile==1.1.0
 flatbuffers==23.5.26
 gast==0.4.0
 google-auth-oauthlib==1.0.0
@@ -22,6 +23,7 @@ mkl-service==2.4.0
 numexpr @ file:///C:/b/abs_afm0oewmmt/croot/numexpr_1683221839116/work
 numpy==1.24.3
 oauthlib==3.2.2
+openpyxl==3.0.10
 opt-einsum==3.3.0
 packaging==23.1
 pandas @ file:///C:/miniconda3/conda-bld/pandas_1692298018988/work
